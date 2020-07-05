@@ -49,6 +49,3 @@ app.use(function(err, req, res, next) {
 
 module.exports = app;
 
-// run the app local experimenting before deploy
-const port = 3000; 
-app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`));

@@ -9,11 +9,13 @@ var debug = require('debug')('node-express:server');
 var http = require('http');
 
 /**
- * Get port from environment and store in Express.
+ * Get port from environment and store in Express. 
+ * run the app local experimenting before deploy
  */
 
 var port = normalizePort(process.env.PORT || '3000');
-app.set('port', port);
+app.set('port', port );
+console.log(`Example app listening at http://localhost:${port}`)
 
 /**
  * Create HTTP server.
