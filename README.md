@@ -1,6 +1,6 @@
 ## Number Jumper 
 
-Have fun while solving crunching some numbers! 
+Have fun while crunching some numbers! 
 
 
 
