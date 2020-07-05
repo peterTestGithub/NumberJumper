@@ -1,5 +1,4 @@
 node_modules/
-bin/
 .elasticbeanstalk/
 .ebextensions/
 
@@ -8,21 +7,3 @@ bin/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
-
-
-./node_modules/.bin/flat
-./node_modules/.bin/mocha
-./node_modules/.bin/he
-./node_modules/.bin/esvalidate
-./node_modules/.bin/acorn
-./node_modules/.bin/uglifyjs
-./node_modules/.bin/node-which
-./node_modules/.bin/esparse
-./node_modules/.bin/js-yaml
-./node_modules/.bin/_mocha
-./node_modules/.bin/cleancss
-./node_modules/.bin/mime
-./node_modules/.bin/jade
-./node_modules/.bin/mkdirp
-./node_modules/with/node_modules/.bin/acorn
-./node_modules/transformers/node_modules/.bin/uglifyjs
