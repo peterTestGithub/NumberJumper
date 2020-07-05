@@ -1,6 +1,7 @@
 node_modules/
 .elasticbeanstalk/
 .ebextensions/
+package-lock.json
 
 # Elastic Beanstalk Files
 .ebextensions/*
