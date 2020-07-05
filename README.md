@@ -1,10 +1,11 @@
 ## Number Jumper 
- 
-Hav det sjovt mens du prøver at løse regnestykker 
+
+Have fun while solving crunching some numbers! 
+
+
 
 
 ## TODO
-
 
 - Lav noget Python som kan generere nogle regnestykker og sende disse til html siden 
 - Hver gang man svare rigtig så får man et point. Points kan ses på forsiden 
